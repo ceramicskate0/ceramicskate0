@@ -19,7 +19,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Neat Things to read:
+
 ![Ceramicskate0's github stats](https://github-readme-stats.vercel.app/api?username=ceramicskate0&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://twitter.com/ceramicskate0"><img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
