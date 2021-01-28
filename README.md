@@ -1,6 +1,7 @@
 ## HackTheBox Rank
 
-<img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> 
+<img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0"><img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
+<a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
 ## Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -25,5 +26,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://twitter.com/ceramicskate0"><img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
-<a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
