@@ -30,3 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
 
+## Other accounts:
+- https://github.com/ceramic-skate0
+
+- https://github.com/lunarobliq
