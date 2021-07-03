@@ -7,6 +7,8 @@
   
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
+- https://patreon.com/ceramicskate0
+
 ## Languages ive coded stuff with:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -34,3 +36,5 @@
 - https://github.com/ceramic-skate0
 
 - https://github.com/lunarobliq
+
+- https://patreon.com/ceramicskate0
