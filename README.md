@@ -30,6 +30,8 @@
 ![Ceramicskate0's github stats](https://github-readme-stats.vercel.app/api?username=ceramicskate0&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ceramicskate0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Other accounts:
 - https://github.com/ceramic-skate0
 
