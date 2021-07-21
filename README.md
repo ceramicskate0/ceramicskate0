@@ -1,4 +1,4 @@
-# Like the work dont forget to hit that Star Button, Smash the Follow Button, and Sponsor
+# Like my work? Dont forget to hit that Star Button, Smash the Follow Button, and Sponsor
 
 ## HackTheBox Rank:
 
