@@ -1,5 +1,7 @@
 # Like my work? Dont forget to hit that Star Button, Smash the Follow Button, and Sponsor
 
+## Remember all tools here are for Education Purposes only
+
 ## HackTheBox Rank:
 
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
