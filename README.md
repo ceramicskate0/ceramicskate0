@@ -1,6 +1,9 @@
 <div align=center> 
   <h1> Like my work? Dont forget to hit that Star Button, Smash the Follow Button, and even Sponsor! </h1> 
 
+<h3><b><i>🏆 Profile Statistics (people looking to use my code ;D) 🏆</i></b></h3>
+<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
+  
 ## Social Media:
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
@@ -8,9 +11,6 @@
 # 💰 SUPPORT 💰:
 
 - https://patreon.com/ceramicskate0
-
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
 
 ## Languages ive coded stuff with:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
