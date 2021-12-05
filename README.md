@@ -11,6 +11,8 @@
   
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
+# 💰 SUPPORT 💰:
+
 - https://patreon.com/ceramicskate0
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
