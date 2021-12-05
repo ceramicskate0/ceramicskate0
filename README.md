@@ -53,4 +53,4 @@
 
 🖥️ https://patreon.com/ceramicskate0 🖥️
 
-## 🔴 Remember all tools here are for Education Purposes only 🔴
+## 🔴 Remember all tools here are for educational purposes only 🔴
