@@ -42,10 +42,10 @@
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
 
 ## Other accounts:
-- 👑 🖥️ https://github.com/ceramic-skate0 🖥️ 👑 
+👑 🖥️ https://github.com/ceramic-skate0 🖥️ 👑 
 
-- 🖥️ https://github.com/lunarobliq 🖥️
+🖥️ https://github.com/lunarobliq 🖥️
 
-- 🖥️ https://patreon.com/ceramicskate0 🖥️
+🖥️ https://patreon.com/ceramicskate0 🖥️
 
 ## 🔴 Remember all tools here are for Education Purposes only
