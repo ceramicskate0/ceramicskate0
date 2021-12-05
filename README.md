@@ -12,7 +12,7 @@
 
 - https://patreon.com/ceramicskate0
 
-## Languages ive coded stuff with:
+## Languages && Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -28,6 +28,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/Ne0nd0g/merlin/master/docs/images/merlin.png"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code>
+<code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/wiki/EmpireProject/Empire/Images/empire_logo.png"></code>
+<code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
+<code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
 
 ## Neat Things to read:
 
@@ -37,7 +45,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ceramicskate0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📕 HackTheBox Rank:
+## 📕 HackTheBox Rank 📕:
 
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
 
@@ -48,4 +56,4 @@
 
 🖥️ https://patreon.com/ceramicskate0 🖥️
 
-## 🔴 Remember all tools here are for Education Purposes only
+## 🔴 Remember all tools here are for Education Purposes only 🔴
