@@ -2,13 +2,8 @@
 
 ## Remember all tools here are for Education Purposes only
 
-## HackTheBox Rank:
-
-<img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
-
 ## Social Media:
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
-  
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
 # 💰 SUPPORT 💰:
@@ -42,6 +37,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ceramicskate0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📕 HackTheBox Rank:
+
+<img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
 
 ## Other accounts:
 - 👑 🖥️ https://github.com/ceramic-skate0 🖥️ 👑 
