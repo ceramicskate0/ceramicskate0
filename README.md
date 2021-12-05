@@ -1,7 +1,7 @@
 <div align=center> 
   <h1> Like my work? Dont forget to hit that Star Button, Smash the Follow Button, and even Sponsor! </h1> 
 
-<h3><b><i>🏆 Profile Statistics (people looking to use my code ;D) 🏆</i></b></h3>
+<h3><b><i>🏆🚧 Profile Statistics (people looking to use my code ;D) 🚧🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
 ## Social Media:
@@ -42,7 +42,7 @@
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
 
 ## Other accounts:
-👑 🖥️ https://github.com/ceramic-skate0 🖥️ 👑 
+🖥️ https://github.com/ceramic-skate0 🖥️
 
 🖥️ https://github.com/lunarobliq 🖥️
 
