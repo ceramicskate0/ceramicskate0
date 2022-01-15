@@ -1,5 +1,5 @@
 <div align=center> 
-  <h1> Like my work? Dont forget to hit that Star Button, Smash the Follow Button, and even Sponsor!</h1> 
+  <h1> Like my work? Dont forget to hit that Star Button, Smash that Follow Button, and even for especially special people Sponsor me!</h1> 
 
 <h3><b><i>🏆 Profile Statistics (people looking to use my code ;D) 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
