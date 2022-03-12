@@ -1,5 +1,5 @@
 <div align=center> 
-  <h1> Like my work? Dont forget to hit that Star Button, Smash that Follow Button, and even for especially special people Sponsor me!</h1> 
+  <h1> Like my educational APT styled work? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
 <h3><b><i>🏆 Profile Statistics (people looking to use my code ;D) 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
-Or hit me up in Bloodhound channels on Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name in them.
+Or hit me up in Bloodhound channels on Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name.
 
 # 💰 SUPPORT 💰:
 
