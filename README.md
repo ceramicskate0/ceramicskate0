@@ -57,7 +57,7 @@
 
 ## 🔴 Remember all tools here are for educational purposes only 🔴
   
-## Other cool stuff ive done on Github (either done in Fork or on side)
+## Other cool stuff ive done on Github (either done in Fork or on side):
   - https://github.com/ceramicskate0/SharpLocker
   - https://github.com/ceramicskate0/AddReferenceDotRedTeam
   - https://github.com/ceramicskate0/DllComparer
