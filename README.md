@@ -1,7 +1,7 @@
 <div align=center> 
   <h1> Like my educational APT styled work? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
-<h3><b><i>🏆 Profile Stats (AKA people looking to use my code without sponsoring me and then pass my ideas off as there own ;D) 🏆</i></b></h3>
+<h3><b><i>🏆 Profile Stats (AKA people looking to use my code without sponsoring me and then pass my ideas off as their own ;D) 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
 ## Social Media:
