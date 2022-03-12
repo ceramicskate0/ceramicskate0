@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 
-Or hit me up in Bloodhound channels on Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name.
+### Hit me up in Bloodhound Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name.
 
 # 💰 SUPPORT 💰:
 
