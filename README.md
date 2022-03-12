@@ -55,7 +55,7 @@
 
 🖥️ https://patreon.com/ceramicskate0 🖥️
 
-## 🔴 Remember all tools here are for educational purposes only 🔴
+## 🔴 Remember all tools here are for educational purposes only. If you can code send me a Pull Request if not open an issue. 🔴
   
 ## Other cool stuff ive done on Github (either done in Fork or on side):
   - https://github.com/ceramicskate0/SharpLocker
