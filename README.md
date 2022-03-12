@@ -77,3 +77,4 @@
   - https://github.com/ceramicskate0/EmbedURLinWordDoc
   - https://github.com/ceramicskate0/DownloadAllFilesWebDir
   - https://github.com/ceramicskate0/PeStudioCollector
+  - https://github.com/ceramicskate0/evilginx2/tree/master/phishlets
