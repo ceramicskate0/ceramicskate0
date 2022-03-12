@@ -1,5 +1,5 @@
 <div align=center> 
-  <h1> Like my educational APT styled work? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
+  <h1> Like my educational APT (seems to be the marketing term to describe red teamers now) styled work? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
 <h3><b><i>🏆 Profile Stats (AKA people looking to use my code without sponsoring me and then pass my ideas off as their own ;D) 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
@@ -56,3 +56,24 @@
 🖥️ https://patreon.com/ceramicskate0 🖥️
 
 ## 🔴 Remember all tools here are for educational purposes only 🔴
+  
+## Other cool stuff ive done on Github (either done in Fork or on side)
+  - https://github.com/ceramicskate0/SharpLocker
+  - https://github.com/ceramicskate0/AddReferenceDotRedTeam
+  - https://github.com/ceramicskate0/DllComparer
+  - https://github.com/ceramicskate0/AutoUpdateSysmonEXE
+  - https://github.com/ceramicskate0/SWELF-PluginHelpers
+  - https://github.com/ceramicskate0/CSharp-ReadProcessMem
+  - https://github.com/ceramicskate0/REDSharpScripts
+  - https://github.com/lunarobliq/BadStrings
+  - https://github.com/ceramicskate0/lanturtle-modules
+  - https://github.com/ceramicskate0/PWK
+  - https://github.com/ceramicskate0/PiHoleBlockList
+  - https://github.com/ceramicskate0/Outlook_Data_Exfil
+  - https://github.com/ceramicskate0/Scripts
+  - https://github.com/ceramicskate0/Csharp-OutCompresseedDLL
+  - https://github.com/ceramicskate0/Remote_Run_RedLine
+  - https://github.com/ceramicskate0/App_to_Fire_Balloon_Tip_on_passed_CMD_Args
+  - https://github.com/ceramicskate0/EmbedURLinWordDoc
+  - https://github.com/ceramicskate0/DownloadAllFilesWebDir
+  - https://github.com/ceramicskate0/PeStudioCollector
