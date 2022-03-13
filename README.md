@@ -95,7 +95,7 @@
   - https://github.com/ceramicskate0/EmbedURLinWordDoc (POC to show how to create a new docs and embbed link in word docx with C#)
     
     
-  - https://github.com/ceramicskate0/DownloadAllFilesWebDir(Download all files from web server, Bug bounty)
+  - https://github.com/ceramicskate0/DownloadAllFilesWebDir (Download all files from web server, Bug bounty stuff)
     
   - https://github.com/ceramicskate0/PeStudioCollector (Project to gather and analyze files from network with PEStudio)
     
