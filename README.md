@@ -58,23 +58,24 @@
 ## 🔴 Remember all tools here are for educational purposes only. If you can code send me a Pull Request if not open an issue. 🔴
   
 ## Other cool stuff ive done on Github (either done in Fork or on side):
-  - https://github.com/ceramicskate0/SharpLocker
-  - https://github.com/ceramicskate0/AddReferenceDotRedTeam
-  - https://github.com/ceramicskate0/DllComparer
-  - https://github.com/ceramicskate0/AutoUpdateSysmonEXE
-  - https://github.com/ceramicskate0/SWELF-PluginHelpers
-  - https://github.com/ceramicskate0/CSharp-ReadProcessMem
-  - https://github.com/ceramicskate0/REDSharpScripts
-  - https://github.com/lunarobliq/BadStrings
-  - https://github.com/ceramicskate0/lanturtle-modules
-  - https://github.com/ceramicskate0/PWK
-  - https://github.com/ceramicskate0/PiHoleBlockList
-  - https://github.com/ceramicskate0/Outlook_Data_Exfil
-  - https://github.com/ceramicskate0/Scripts
-  - https://github.com/ceramicskate0/Csharp-OutCompresseedDLL
-  - https://github.com/ceramicskate0/Remote_Run_RedLine
-  - https://github.com/ceramicskate0/App_to_Fire_Balloon_Tip_on_passed_CMD_Args
-  - https://github.com/ceramicskate0/EmbedURLinWordDoc
-  - https://github.com/ceramicskate0/DownloadAllFilesWebDir
-  - https://github.com/ceramicskate0/PeStudioCollector
-  - https://github.com/ceramicskate0/evilginx2/tree/master/phishlets
+  - https://github.com/ceramicskate0/SharpLocker (POC for pentests /Red Teams to cause help desk or user to login to machine and gather user inputed creds)
+  - https://github.com/ceramicskate0/AddReferenceDotRedTeam (1 of the first POC's to show how to add Lib to C# Post Exploit tool kits)
+  - https://github.com/ceramicskate0/DllComparer (C# POC To get DLLs from Processes)
+  - https://github.com/ceramicskate0/AutoUpdateSysmonEXE (A C# way to auto update Sysmon Configs from GIthub)
+  - https://github.com/ceramicskate0/SWELF-PluginHelpers (Supported SWELF Plugin Repo)
+  - https://github.com/ceramicskate0/CSharp-ReadProcessMem (POC C# to read process memory POC was for RDP cred dump)
+  - https://github.com/ceramicskate0/REDSharpScripts (Random Red Team and pentest scripts)
+  - https://github.com/lunarobliq/BadStrings (List of AV sig'd Strings for C# CI/CD works)
+  - https://github.com/ceramicskate0/lanturtle-modules (Random modules i made for lan turtle)
+  - https://github.com/ceramicskate0/PWK (PWK OSCP works)
+  - https://github.com/ceramicskate0/PiHoleBlockList (Maintained PI hole blocklists)
+  - https://github.com/ceramicskate0/Outlook_Data_Exfil (OLD maybe the 1st on github POC to show how malicious Outlook plugins are bad)
+  - https://github.com/ceramicskate0/Scripts (Random Scripts)
+  - https://github.com/ceramicskate0/Csharp-OutCompresseedDLL (Powersploits Compress DLL in c#)
+  - https://github.com/ceramicskate0/Remote_Run_RedLine (Run Redline remotely, Made before WMI was POC'd as Lateral Movement)
+  - https://github.com/ceramicskate0/App_to_Fire_Balloon_Tip_on_passed_CMD_Args (POC to file windows Ballon Alert)
+  - https://github.com/ceramicskate0/EmbedURLinWordDoc (POC to show how to create a new docs and embbed link in word docx with c#)
+  - https://github.com/ceramicskate0/DownloadAllFilesWebDir(Download all files from web server, Bug bounty)
+  - https://github.com/ceramicskate0/PeStudioCollector (Project to gather and analyze files from network with PEStudio)
+  - https://github.com/ceramicskate0/evilginx2/tree/master/phishlets (Custom Working AWS Phishlet)
+  - https://github.com/lunarobliq/LinuxConfigs (Secure for Red Teams Linux Configs)
