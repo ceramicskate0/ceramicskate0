@@ -60,7 +60,7 @@
   <div align=left> 
 ## Other cool stuff ive done on Github (either done in Fork or on side):
     
-  - https://github.com/ceramicskate0/SharpLocker (POC for pentests /Red Teams to cause help desk or user to login to machine and gather user inputed creds)
+  - https://github.com/ceramicskate0/SharpLocker (Updated Fork with additional POC for testers to gather user inputed creds via Fake UAC Prompt)
     
   - https://github.com/ceramicskate0/AddReferenceDotRedTeam (1 of the first POC's to show how to add Lib to C# Post Exploit tool kits)
     
