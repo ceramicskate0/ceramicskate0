@@ -102,3 +102,5 @@
   - https://github.com/ceramicskate0/evilginx2/tree/master/phishlets (Custom Working AWS Phishlet)
     
   - https://github.com/lunarobliq/LinuxConfigs (Secure for Red Teams Linux Configs)
+    
+  - https://github.com/lunarobliq/Git-Stuff (Git Bat scripts to help automate work with git)
