@@ -1,7 +1,7 @@
 <div align=center> 
-  <h1> Like my educational APT styled work (seems to be the marketing term to describe red teaming)? Also dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
+  <h1> Like my educational APT styled work (seems to be the marketing term to describe red teaming)? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
-<h3><b><i>🏆 Profile Stats (AKA people looking to use my code without sponsoring me and then pass my ideas off as their own ;D) 🏆</i></b></h3>
+<h3><b><i>🏆 Profile Stats (AKA people looking to use my code. Dont forget to recgonize me and thank me.) 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
 ## Social Media:
@@ -93,7 +93,6 @@
   - https://github.com/ceramicskate0/App_to_Fire_Balloon_Tip_on_passed_CMD_Args (POC to file windows Ballon Alert)
     
   - https://github.com/ceramicskate0/EmbedURLinWordDoc (POC to show how to create a new docs and embbed link in word docx with C#)
-    
     
   - https://github.com/ceramicskate0/DownloadAllFilesWebDir (Download all files from web server, Bug bounty stuff)
     
