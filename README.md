@@ -38,6 +38,8 @@
 
 ## Neat Things to read:
 
+The [My Blog](https://ceramicskate0.github.io)
+
 ![Ceramicskate0's github stats](https://github-readme-stats.vercel.app/api?username=ceramicskate0&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,6 +56,8 @@
 🖥️ https://github.com/lunarobliq 🖥️
 
 🖥️ https://patreon.com/ceramicskate0 🖥️
+
+🖥️ https://ceramicskate0.github.io 🖥️
 
 ## 🔴 Remember all tools here are for educational purposes only. If you can code send me a Pull Request if not open an issue. 🔴
 
