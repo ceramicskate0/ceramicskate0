@@ -7,8 +7,15 @@
 ## Social Media:
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
-
+</br>
 ### Hit me up in Bloodhound Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name.
+</br>
+
+## My Security Blog
+<a href="https://ceramicskate0.github.io">CeramicSkate0s Blog</a>
+
+## My Discord
+<a href="discord.gg/sGsjjAMZ">Invite Link</a>
 
 # 💰 SUPPORT 💰:
 
@@ -37,8 +44,6 @@
 <code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
 
 ## Neat Things to read:
-
-The [My Blog](https://ceramicskate0.github.io)
 
 ![Ceramicskate0's github stats](https://github-readme-stats.vercel.app/api?username=ceramicskate0&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
 
