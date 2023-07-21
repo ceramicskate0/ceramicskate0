@@ -54,8 +54,6 @@
 
 ## Other accounts:
 
-🖥️ https://github.com/lunarobliq 🖥️
-
 🖥️ https://patreon.com/ceramicskate0 🖥️
 
 🖥️ https://ceramicskate0.github.io 🖥️
