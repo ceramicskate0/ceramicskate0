@@ -1,15 +1,12 @@
 <div align=center> 
   <h1> Like my educational APT styled work (seems to be the marketing term to describe red teaming)? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
-<h3><b><i>🏆 Profile Stats (AKA people looking to use my code. Dont forget to recgonize me and thank me.) 🏆</i></b></h3>
+<h3><b><i>🏆 Profile Stats 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
 ## Social Media:
 <img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
 <a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
-</br>
-### Hit me up in Bloodhound Slack or most of the (lol) other "Hacker darknet channels" aka discord chats. I have the same screen name.
-</br>
 
 ## My Security Blog
 <a href="https://ceramicskate0.github.io">CeramicSkate0s Blog</a>
@@ -56,7 +53,6 @@
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
 
 ## Other accounts:
-🖥️ https://github.com/ceramic-skate0 🖥️
 
 🖥️ https://github.com/lunarobliq 🖥️
 
