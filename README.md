@@ -40,14 +40,6 @@
 <code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
 <code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
 
-## Neat Things to read:
-
-![Ceramicskate0's github stats](https://github-readme-stats.vercel.app/api?username=ceramicskate0&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceramicskate0&langs_count=80)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ceramicskate0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📕 HackTheBox Rank 📕:
 
 <img src="http://www.hackthebox.eu/badge/image/462079" alt="Hack The Box"> <a href="https://twitter.com/ceramicskate0">
