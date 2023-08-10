@@ -101,4 +101,5 @@
     
   - https://github.com/ceramicskate0/SharpExchange (C# Tool to interact with MS Exchange)
 
-### Disclaimer: The person(s) attached to this account, the account, and the author(s) are not responsible or liable for any code hosted here or its use cases.
+### Disclaimer: 
+The person(s) attached to this account, the account, and the author(s) are not responsible or liable for any code hosted here or its use cases.
