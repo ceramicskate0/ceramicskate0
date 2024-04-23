@@ -4,10 +4,6 @@
 <h3><b><i>🏆 Profile Stats 🏆</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
-## Social Media:
-<img src="https://img.shields.io/twitter/follow/ceramicskate0?color=0ff00&label=%40ceramicskate0&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
-<a href="https://github.com/ceramicskate0"><img src="https://img.shields.io/github/followers/ceramicskate0?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
-
 ## My Security Blog
 <a href="https://ceramicskate0.github.io">CeramicSkate0s Blog</a>
 
