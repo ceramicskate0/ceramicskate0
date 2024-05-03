@@ -1,4 +1,5 @@
 <div align=center> 
+  <h1>🔒 Elevate your security game with CeramicSkate0's arsenal of offensive security tools! From penetration testing to vulnerability assessment, empower yourself with the tools of the trade. Ready to strengthen your defenses? Let's dive into the world of ethical hacking together!🔒<h1>
   <h1> Like my educational APT styled work (seems to be the marketing term to describe red teaming)? Dont forget to hit that Star Button, Smash that Follow Button, and for the especially special people feel free to Sponsor me!</h1> 
 
 <h3><b><i>🏆 Profile Stats 🏆</i></b></h3>
