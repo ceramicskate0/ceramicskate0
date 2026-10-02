@@ -6,7 +6,7 @@
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ceramicskate0&color=blueviolet&style=flat-square"></a>
   
 ## My Security Blog
-<a href="https://ceramicskate0.github.io">CeramicSkate0s Blog</a>
+# <a href="https://ceramicskate0.github.io">CeramicSkate0s Blog</a>
 
 ## My Discord
 <a href="discord.gg/sGsjjAMZ">Invite Link</a>
